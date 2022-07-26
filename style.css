@@ -1,0 +1,19 @@
+ul{
+   list-style: none;
+   padding: 20px;
+   background-color: rgb(206, 194, 194);
+   border-radius: 20px;
+}
+li{
+   display: inline-block;
+   font-size: 30px;
+   font-weight: bold;
+}
+.main-contant{
+   width: 320px;
+   height: 200px;
+}
+.main{
+   max-width: 400px;
+   margin:  10% auto;
+}
